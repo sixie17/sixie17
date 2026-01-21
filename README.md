@@ -1,11 +1,37 @@
-<h1>Welcome to my profile</h1>
-<b>      My name is Yasser, I'm a computer science student at 1337, interested in cyber security. Here are some stats about me. Hope you find my repos interesting.
+<div align="center">
+  <img src="path/to/your/smokeybull-logo.png" width="200" alt="SmokeyBull Logo" />
 
-[![ysakine's 42 stats](https://badge.mediaplus.ma/darkblue/ysakine)](https://github.com/oakoudad/badge42)
-<h1>Github status</h1>
+  <h1>SmokeyBull</h1>
+  <p><b>System Architecture & Low-Level Engineering</b></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sixie17&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <p>
+    I build high-performance systems, from <b>kernel development</b> to <b>serverless event-driven architectures</b>.
+    <br/>
+    Currently focusing on AI infrastructure, OCI, and low-level operating system design.
+  </p>
+</div>
 
-<h1>Top Languages</h1>
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sixie17&layout=compact&theme=radical)
+### 🛠️ The Arsenal
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+</p>
+
+### 🚧 Current Work
+* **Kernel Dev:** Building a kernel from scratch (Memory management, Process scheduling).
+* **Cloud Architecture:** Designing a serverless payment platform on OCI using event-driven patterns.
+* **AI:** Developing local LLM integration and customer support automation.
+
+---
+
+### 📊 Activity
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sixie17&theme=transparent&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00" alt="GitHub Streak" />
+</p>
