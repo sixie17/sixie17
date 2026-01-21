@@ -48,8 +48,7 @@ I am a systems architect and developer who believes in vertical integration. Whe
 | Domain | Project | Description |
 | :--- | :--- | :--- |
 | **AI / SaaS** | **Chatlilo** | Automated Customer Success platform for e-commerce using event-driven AI agents. |
-| **Systems** | **Kernel Project** | A fully functional operating system kernel written from scratch. |
-| **Infra** | **OCI Payments** | Serverless payment architecture deployed on Oracle Cloud Infrastructure. |
+| **Systems** | **Kernel Project** | A fully functional operating system kernel written from scratch. (on going) |
 | **Security** | **Network Tools** | Custom implementations for secure remote access and mesh networking. |
 
 ---
