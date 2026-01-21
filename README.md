@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="path/to/your/smokeybull-logo.png" width="200" alt="SmokeyBull Logo" />
+  <img src="./smokeybullwhite.jpg" width="200" alt="SmokeyBull Logo" />
 
   <h1>SmokeyBull</h1>
   <p><b>Full-Spectrum Software Engineering</b></p>
