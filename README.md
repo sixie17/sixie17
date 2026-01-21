@@ -52,8 +52,3 @@ I am a systems architect and developer who believes in vertical integration. Whe
 | **Security** | **Network Tools** | Custom implementations for secure remote access and mesh networking. |
 
 ---
-
-### 📊 Vital Signs
-<p align="left">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smokeybull&theme=transparent&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
-</p>
