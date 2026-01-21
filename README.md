@@ -55,5 +55,5 @@ I am a systems architect and developer who believes in vertical integration. Whe
 
 ### 📊 Vital Signs
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sixie17&theme=transparent&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00" alt="GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smokeybull&theme=transparent&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
 </p>
