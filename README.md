@@ -14,7 +14,7 @@
 
 ### ⚡ The Philosophy
 
-I am a systems architect and developer who believes in vertical integration. Whether it's writing a bootloader, architecting a serverless payment system, or fine-tuning LLMs for e-commerce, I focus on performance, control, and scalability.
+I am a systems architect and developer who believes in vertical integration. Whether it's writing a bootloader or fine-tuning LLMs for e-commerce, I focus on performance, control, and scalability.
 
 ---
 
